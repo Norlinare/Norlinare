@@ -22,11 +22,6 @@ Clean code patterns and software structure
 
 📂 Featured Projects
 
-(Examples — update once you pin projects)
-
-Flashcard Language Trainer – A .NET and Unity-based app to learn Spanish and English through interactive flashcards.
-
-Stretching Session Manager – A WPF app managing flexible stretching sessions, clean UI design, and timed body part rotations.
 
 🧠 Fun Fact
 
