@@ -16,7 +16,7 @@ Git & GitHub (Version control, collaboration)
 
 🚀 Currently Learning
 
-Advanced system design and backend architecture
+Fundamental system design and backend architecture
 
 Clean code patterns and software structure
 
