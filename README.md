@@ -22,6 +22,9 @@ Clean code patterns and software structure
 
 📂 Featured Projects
 
+🚗 Car Rental System – A C#/.NET Core console app showcasing OOP (inheritance, abstraction, polymorphism) with dynamic pricing logic.  
+🔗 [View Project](https://github.com/Norlinare/CarRentalSystem)
+
 
 🧠 Fun Fact
 
